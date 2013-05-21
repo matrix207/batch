@@ -1,0 +1,11 @@
+[project]
+name=example
+url=http://192.168.1.102/repos/dev/example/1.0/trunk
+rev=15029
+solution=src\example.sln
+script=setup\example.iss
+[component]
+cpt_size=1
+cpt_1_name=component_1
+cpt_1_sln=src\example\example.vcproj
+cpt_1_out=bin\example.exe
