@@ -1,3 +1,12 @@
+###basic
+* pause
+* run more than one command on a line, using `&` symbol; e.g: `echo 1234 & echo abc`
+
+###for
+
+###how to debug
+* echo
+* pause
 
 ###print PID of the current batch file
 From: <https://social.msdn.microsoft.com/Forums/vstudio/en-US/270f0842-963d-4ed9-b27d-27957628004c/what-is-the-pid-of-the-current-cmdexe>
